@@ -129,7 +129,7 @@ The Ghana Healthcare Intelligence Platform is a full-stack agentic AI system tha
 # Clone the repository
 git clone https://github.com/yourusername/ghana-healthcare.git
 cd ghana-healthcare
-
+#unzip/extract both the zip files
 # Setup Python virtual environment
 cd backend
 python -m venv venv
