@@ -312,7 +312,7 @@ Every feature was built with a specific real-world impact in mind:
 
 ## 👥 Team
 
-Built for the Databricks × Accenture Hackathon 2024 — Virtue Foundation Track.
+Built for the Databricks × Accenture Hackathon 2026 — Virtue Foundation Track.
 
 ---
 
