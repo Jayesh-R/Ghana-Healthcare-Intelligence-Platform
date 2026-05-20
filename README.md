@@ -328,3 +328,9 @@ MIT License — see LICENSE file for details.
 - **Databricks** — for hosting the hackathon
 - **Groq** — for free LLM API access
 - **FAISS** — Meta's vector similarity library
+
+
+
+https://github.com/user-attachments/assets/15c1dd82-22ea-4db2-afb9-43be81d54cb2
+
+
