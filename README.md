@@ -1,5 +1,5 @@
 # 🏥 Ghana Healthcare Intelligence Platform
-### Databricks × Accenture Hackathon 2024 — Virtue Foundation Track
+### Databricks × Accenture Hackathon 2026 — Virtue Foundation Track
 
 > **Bridging Medical Deserts with Agentic AI** — An intelligent document parsing and resource planning system that transforms 987 messy Ghana hospital records into actionable healthcare intelligence for NGO planners.
 
